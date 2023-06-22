@@ -38,7 +38,7 @@
 - Firebase의 보안 규칙 설정 및 사용자 인증 과정에서 오류가 발생했고, 그로 인해 이미지 업로딩이 되지 않아 보안에 대한 이해도를 높이는 데 어려움을 겪었습니다.
 <br/>
 이로 인해Firebase를 기반으로 한 기초적인 기능들을 이해하고 구현함으로써 웹 애플리케이션에서 데이터 관리, 사용자 인증, 파일 업로드 등의 기능을 다룰 수 있게 되었습니다.
-<br/>
+<br/><br/>
 
 > ## **프로젝트 기간**
 
@@ -62,11 +62,16 @@
 
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"><img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 
+<br/>
+
+### ✔️ Back-end
+
+<img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
 
 <br/>
 
 ### ✔️ Library
-<img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"><img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"><img src="https://img.shields.io/badge/react_router_dom-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white"><img src="https://img.shields.io/badge/md5-black?style=for-the-badge&logo=0&logoColor=white"><img src="https://img.shields.io/badge/moment-gray?style=for-the-badge&logo=0&logoColor=white"><img src="https://img.shields.io/badge/react_icon-black?style=for-the-badge&logo=0&logoColor=white"><img src="https://img.shields.io/badge/react_hook_form-gray?style=for-the-badge&logo=0&logoColor=white">
+<img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"><img src="https://img.shields.io/badge/react_router_dom-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white"><img src="https://img.shields.io/badge/md5-black?style=for-the-badge&logo=0&logoColor=white"><img src="https://img.shields.io/badge/moment-gray?style=for-the-badge&logo=0&logoColor=white"><img src="https://img.shields.io/badge/react_icon-black?style=for-the-badge&logo=0&logoColor=white"><img src="https://img.shields.io/badge/react_hook_form-gray?style=for-the-badge&logo=0&logoColor=white">
 
 <hr/>
 
